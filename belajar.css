@@ -1,0 +1,62 @@
+h2 { 
+    background-color:black; color:white; 
+    }
+    * {
+        color: blue;    background-color: white;
+    }
+    h1 {
+        text-decoration: underline;
+    }   
+    p {
+        font-size:14px;
+    }
+    .paragraf_pertama {
+        color: red;
+    }   
+    .judul {
+        font-size:20px;
+    } 
+    .penting {
+        color:red;
+        font-size: 1em;
+    }
+    #paragraf_ pembuka {
+        color: red;
+    }
+    #judul utama {
+        font-size:20px
+    }
+    [href] {
+        font-size:20px ;
+    }
+    [type="submit"] {
+        width:30px;
+    }
+    h2 {
+        color: blue;
+    }
+    h2 {
+        color: blue;
+    }
+    h3 {
+        color: blue;
+    }
+    h2 , h3 {
+        color: blue;
+    }
+    h1 , h2, h3 , h4, h5 , h6{
+        color: blue;
+    }
+    strong {
+        color:red;
+    }
+    p strong {
+        color:red;
+    }
+    h2 span i {
+        color:red;
+    }
+    h2.judul , .paragraf {
+        font-style: italic;
+    }
+    
